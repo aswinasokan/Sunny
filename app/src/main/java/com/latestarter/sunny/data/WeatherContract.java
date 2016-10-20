@@ -16,7 +16,6 @@
 package com.latestarter.sunny.data;
 
 import android.provider.BaseColumns;
-import android.text.format.Time;
 
 /**
  * Defines table and column names for the weather database.
